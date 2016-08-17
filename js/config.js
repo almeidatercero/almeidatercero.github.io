@@ -3,7 +3,11 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
+<<<<<<< HEAD
     siteName: 'My blog',
+=======
+    siteName: 'my blog',
+>>>>>>> master
 
     // Tagline for your site
     siteTagline: 'I <3 Design',
