@@ -5,8 +5,8 @@ title: About
 
 Hello! This is my awesome about page! Check out some cool links:
 
-* [Smashing Magazine](https://www.smashingmagazine.com)
-* [TechCrunch](http://techcrunch.com/)
-* [Ars Technica](http://arstechnica.com/)
-* [Codoki](http://codoki.com/)
-* [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Me on Tumblr](http://almeidatercero.tumblr.com/)
+* [Me on Dribbble](https://dribbble.com/almeidatercero)
+* [Me on Deviantart](http://arkett.deviantart.com/)
+* [Me on Behance](https://www.behance.net/almeidatercero)
+* [My website](http://almeidatercero.com/)
